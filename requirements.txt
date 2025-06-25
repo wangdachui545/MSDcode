@@ -1,0 +1,6 @@
+torch>=2.1
+pytorch-lightning>=2.2
+pywt>=1.4
+einops>=0.7
+numpy
+tqdm
